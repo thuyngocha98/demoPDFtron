@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.edmodo:cropper:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29ef0f66b3fcdad89070aee89890f3b8/jetified-cropper-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29ef0f66b3fcdad89070aee89890f3b8/jetified-cropper-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/29ef0f66b3fcdad89070aee89890f3b8/jetified-cropper-2.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
